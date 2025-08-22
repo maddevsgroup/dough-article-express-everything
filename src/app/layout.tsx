@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Article",
-  description: "AI-enabled blog application – a DOUGH starter that needs custom refinement and tailoring",
+  title: "article",
+  description: "a blogbase application – a DOUGH ai enabled starter that needs custom refinement and tailoring",
 };
 
 export default function RootLayout({
