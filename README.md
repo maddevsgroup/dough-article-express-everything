@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./public/globe.svg" alt="Project Logo" height="96" />
-  <h1>Article – AI-enabled Blog Platform</h1>
+  <h1>arrticle - express everything</h1>
   <p>Write, edit, and publish blogs with a clean UI, AI-assisted writing, and image storage via MongoDB GridFS.</p>
 </div>
 
